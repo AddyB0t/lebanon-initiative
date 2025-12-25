@@ -1,0 +1,478 @@
+{
+  "common": {
+    "appName": "Initiative Genre Liban",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "all": "Tous",
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "callNow": "Appeler maintenant",
+    "whatsapp": "WhatsApp",
+    "sms": "SMS",
+    "available247": "Disponible 24h/24",
+    "anonymous": "Anonyme"
+  },
+  "nav": {
+    "home": "Accueil",
+    "submitGrievance": "Soumettre une plainte",
+    "trackGrievance": "Suivre une plainte",
+    "questionnaire": "Enquête",
+    "helplines": "Lignes d'aide",
+    "selfDefense": "Auto-défense",
+    "resources": "Ressources",
+    "gallery": "Galerie",
+    "childrenSafety": "Sécurité des enfants",
+    "health": "Santé",
+    "community": "Communauté",
+    "stories": "Histoires",
+    "events": "Événements",
+    "map": "Trouver de l'aide",
+    "faq": "FAQ",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Votre voix compte",
+      "subtitle": "Un espace sûr pour les femmes et les enfants du Sud-Liban",
+      "description": "Soumettez des plaintes de manière anonyme, accédez aux ressources de soutien et connectez-vous à l'aide quand vous en avez besoin.",
+      "cta": "Soumettre une plainte",
+      "emergency": "Urgence ? Appelez maintenant"
+    },
+    "features": {
+      "grievance": {
+        "title": "Soumettre une plainte",
+        "description": "Signalez les incidents en toute sécurité et anonymement"
+      },
+      "helplines": {
+        "title": "Lignes d'urgence",
+        "description": "Accès rapide aux services de soutien"
+      },
+      "selfDefense": {
+        "title": "Auto-défense",
+        "description": "Apprenez à vous protéger"
+      }
+    },
+    "additionalServices": {
+      "title": "Services supplémentaires"
+    }
+  },
+  "grievance": {
+    "title": "Soumettre une plainte",
+    "subtitle": "Votre voix compte. Vous pouvez soumettre de manière anonyme.",
+    "form": {
+      "name": "Nom (Optionnel)",
+      "namePlaceholder": "Entrez votre nom ou laissez vide pour l'anonymat",
+      "email": "Email (Optionnel)",
+      "emailPlaceholder": "Pour le suivi si nécessaire",
+      "phone": "Téléphone (Optionnel)",
+      "phonePlaceholder": "Pour le suivi si nécessaire",
+      "anonymous": "Je veux soumettre de manière anonyme",
+      "village": "Village",
+      "selectVillage": "Sélectionnez votre village",
+      "otherLocation": "Autre localisation",
+      "grievanceType": "Type de plainte",
+      "selectType": "Sélectionnez le type de plainte",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez ce qui s'est passé avec autant de détails que vous le souhaitez...",
+      "incidentDate": "Date de l'incident (Optionnel)",
+      "uploadEvidence": "Télécharger des preuves (Optionnel)",
+      "uploadHint": "Images, PDF, audio ou vidéo (max 10 Mo chacun)",
+      "submitButton": "Soumettre la plainte",
+      "submitting": "Soumission en cours..."
+    },
+    "types": {
+      "harassment": "Harcèlement",
+      "domestic_violence": "Violence domestique",
+      "workplace_discrimination": "Discrimination au travail",
+      "sexual_assault": "Agression sexuelle",
+      "child_abuse": "Maltraitance d'enfants",
+      "economic_abuse": "Abus économique",
+      "stalking": "Harcèlement criminel",
+      "forced_marriage": "Mariage forcé",
+      "honor_violence": "Violence d'honneur",
+      "other": "Autre"
+    },
+    "success": {
+      "title": "Plainte soumise avec succès",
+      "message": "Votre plainte a été reçue et sera examinée.",
+      "trackingCode": "Votre code de suivi",
+      "saveCode": "Veuillez enregistrer ce code pour suivre l'état de votre plainte",
+      "trackLink": "Suivre votre plainte",
+      "submitAnother": "Soumettre une autre plainte"
+    },
+    "track": {
+      "title": "Suivre votre plainte",
+      "enterCode": "Entrez votre code de suivi",
+      "codePlaceholder": "ex: ABC123XYZ456",
+      "trackButton": "Suivre l'état",
+      "status": {
+        "submitted": "Soumise",
+        "under_review": "En cours d'examen",
+        "in_progress": "En cours",
+        "resolved": "Résolue",
+        "closed": "Fermée"
+      }
+    }
+  },
+  "helplines": {
+    "title": "Lignes d'aide d'urgence",
+    "subtitle": "Si vous êtes en danger, appelez immédiatement",
+    "categories": {
+      "all": "Tous",
+      "emergency": "Urgence",
+      "domestic_violence": "Violence domestique",
+      "shelter": "Refuge",
+      "mental_health": "Santé mentale",
+      "legal": "Aide juridique"
+    }
+  },
+  "selfDefense": {
+    "title": "Formation à l'auto-défense",
+    "subtitle": "Apprenez des techniques pour vous protéger",
+    "categories": {
+      "all": "Toutes les vidéos",
+      "basic": "Techniques de base",
+      "escape": "Mouvements d'évasion",
+      "awareness": "Conscience situationnelle",
+      "prevention": "Prévention"
+    }
+  },
+  "childrenSafety": {
+    "title": "Sécurité des enfants",
+    "subtitle": "Enseigner aux enfants la sécurité personnelle",
+    "goodTouch": {
+      "title": "Bon toucher",
+      "description": "Les touches qui vous font sentir en sécurité, aimé et confortable"
+    },
+    "badTouch": {
+      "title": "Mauvais toucher",
+      "description": "Les touches qui vous font sentir mal à l'aise, effrayé ou confus"
+    },
+    "whatToDo": {
+      "title": "Que faire",
+      "description": "Si quelqu'un vous touche d'une manière qui semble incorrecte"
+    },
+    "forParents": {
+      "title": "Pour les parents",
+      "description": "Comment parler à vos enfants de la sécurité corporelle"
+    }
+  },
+  "health": {
+    "title": "Sensibilisation à la santé",
+    "subtitle": "Informations importantes sur la santé des femmes",
+    "breastCancer": {
+      "title": "Sensibilisation au cancer du sein",
+      "selfExam": "Guide d'auto-examen",
+      "signs": "Signes d'alerte",
+      "whenToSee": "Quand consulter un médecin",
+      "screening": "Ressources de dépistage locales"
+    }
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Trouvez des réponses aux questions courantes"
+  },
+  "community": {
+    "title": "Forum communautaire",
+    "subtitle": "Partagez vos expériences et soutenez-vous mutuellement",
+    "newPost": "Créer un nouveau post",
+    "anonymous": "Poster anonymement"
+  },
+  "stories": {
+    "title": "Histoires de succès",
+    "subtitle": "Histoires inspirantes de force et de résilience"
+  },
+  "events": {
+    "title": "Événements et webinaires",
+    "subtitle": "Sessions d'experts et ateliers",
+    "upcoming": "Événements à venir",
+    "past": "Événements passés",
+    "register": "S'inscrire"
+  },
+  "map": {
+    "title": "Trouver de l'aide près de vous",
+    "subtitle": "Localisez les refuges, ONG et services de soutien",
+    "categories": {
+      "all": "Tous les lieux",
+      "shelter": "Refuges",
+      "ngo": "ONG",
+      "legal_aid": "Aide juridique",
+      "hospital": "Hôpitaux"
+    },
+    "getDirections": "Obtenir l'itinéraire"
+  },
+  "chatbot": {
+    "title": "Assistant de soutien",
+    "placeholder": "Tapez votre message...",
+    "greeting": "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+    "thinking": "Réflexion en cours..."
+  },
+  "panic": {
+    "hideButton": "Sortie rapide",
+    "tooltip": "Cliquez pour quitter ce site immédiatement"
+  },
+  "footer": {
+    "emergency": "Urgence : 112",
+    "helpline": "Ligne d'aide : +961 76 348 299",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "contact": "Contactez-nous",
+    "copyright": "Initiative Genre Liban. Tous droits réservés."
+  },
+  "admin": {
+    "title": "Panneau d'administration",
+    "login": {
+      "title": "Accès administrateur",
+      "password": "Mot de passe",
+      "submit": "Connexion",
+      "error": "Mot de passe invalide"
+    },
+    "dashboard": {
+      "title": "Tableau de bord",
+      "totalGrievances": "Total des plaintes",
+      "pending": "En attente d'examen",
+      "inProgress": "En cours",
+      "resolved": "Résolues"
+    },
+    "tabs": {
+      "dashboard": "Tableau de bord",
+      "grievances": "Plaintes",
+      "content": "Contenu",
+      "chatbot": "Test du chatbot"
+    }
+  },
+  "questionnaire": {
+    "title": "Enquête sur la sécurité et le soutien",
+    "subtitle": "Sud-Liban – Confidentiel et volontaire",
+    "note": {
+      "title": "Note importante",
+      "confidential": "Vos réponses sont confidentielles. Vous pouvez sauter n'importe quelle question.",
+      "purpose": "Ce questionnaire nous aide à comprendre les besoins de sécurité et à améliorer les services de soutien."
+    },
+    "sections": {
+      "basic": "Informations de base",
+      "conflict": "Impact du conflit",
+      "genderSafety": "Sécurité basée sur le genre",
+      "support": "Accès au soutien",
+      "unifil": "Perception de la sécurité communautaire",
+      "reporting": "Confiance et signalement",
+      "selfDefense": "Ressources d'auto-défense",
+      "feedback": "Commentaires ouverts"
+    },
+    "sectionDescriptions": {
+      "basic": "Informations personnelles optionnelles pour nous aider à comprendre la démographie.",
+      "conflict": "Comprendre comment la situation actuelle a affecté votre vie quotidienne.",
+      "genderSafety": "Questions sur la sécurité des femmes et des filles dans le contexte actuel.",
+      "support": "À propos de l'accès aux services de soutien et des obstacles.",
+      "unifil": "Ces questions se concentrent sur l'expérience et la sensibilisation de la communauté.",
+      "reporting": "À propos des mécanismes de signalement et de la confiance.",
+      "selfDefense": "Votre intérêt pour les ressources et la formation en auto-défense.",
+      "feedback": "Partagez vos pensées et suggestions ouvertement."
+    },
+    "basic": {
+      "ageGroup": "Groupe d'âge",
+      "ageOptions": {
+        "under18": "Moins de 18 ans",
+        "18-25": "18 – 25",
+        "26-35": "26 – 35",
+        "36-45": "36 – 45",
+        "46+": "46+"
+      },
+      "village": "Village / Zone",
+      "selectVillage": "Sélectionnez votre village",
+      "other": "Autre",
+      "specifyVillage": "Veuillez préciser votre emplacement",
+      "completingAs": "Vous remplissez ce formulaire en tant que :",
+      "roleOptions": {
+        "survivor": "Survivante",
+        "witness": "Témoin",
+        "family": "Membre de la famille",
+        "community": "Membre de la communauté"
+      }
+    },
+    "conflict": {
+      "impacts": "Comment le conflit en cours a-t-il affecté votre vie quotidienne ?",
+      "selectAll": "Sélectionnez tout ce qui s'applique",
+      "impactOptions": {
+        "reducedSafety": "Diminution du sentiment de sécurité personnelle",
+        "movement": "Restrictions de mouvement",
+        "livelihood": "Perte de moyens de subsistance ou de revenus",
+        "displacement": "Déplacement ou crainte de déplacement",
+        "stress": "Augmentation du stress ou de l'anxiété",
+        "education": "Perturbation de l'éducation",
+        "noImpact": "Pas d'impact significatif",
+        "other": "Autre"
+      },
+      "specifyOther": "Veuillez préciser",
+      "safetyComparison": "Par rapport à avant le conflit, vous vous sentez :",
+      "safetyOptions": {
+        "muchLess": "Beaucoup moins en sécurité",
+        "slightlyLess": "Légèrement moins en sécurité",
+        "same": "À peu près pareil",
+        "slightlySafer": "Légèrement plus en sécurité",
+        "muchSafer": "Beaucoup plus en sécurité"
+      },
+      "householdTensions": "Le conflit a-t-il augmenté les tensions ou la violence au sein des ménages ou des communautés ?",
+      "tensionOptions": {
+        "yesSignificant": "Oui, significativement",
+        "yesSomewhat": "Oui, quelque peu",
+        "noChange": "Pas de changement",
+        "notSure": "Pas sûr"
+      }
+    },
+    "genderSafety": {
+      "womenRisk": "Depuis l'escalade du conflit, pensez-vous que les femmes et les filles sont :",
+      "riskOptions": {
+        "greater": "À plus grand risque de violence",
+        "same": "Au même risque qu'avant",
+        "lower": "À risque moindre",
+        "unsure": "Incertain"
+      },
+      "increasedRisks": "Quels types de risques ont augmenté ?",
+      "riskTypes": {
+        "domestic": "Violence domestique",
+        "harassment": "Harcèlement sexuel dans les espaces publics",
+        "forcedMarriage": "Mariage forcé ou précoce",
+        "online": "Harcèlement en ligne",
+        "exploitation": "Exploitation due aux difficultés économiques",
+        "none": "Aucun",
+        "preferNot": "Préfère ne pas dire"
+      },
+      "safeReporting": "Vous sentez-vous en sécurité pour signaler la violence ou le harcèlement ?",
+      "reportOptions": {
+        "yes": "Oui",
+        "no": "Non",
+        "certainOrgs": "Seulement à certaines organisations",
+        "unsure": "Incertain"
+      }
+    },
+    "support": {
+      "firstApproach": "Si vous avez subi ou été témoin de violence, vers qui vous tourneriez-vous en premier ?",
+      "approachOptions": {
+        "family": "Membre de la famille",
+        "community": "Leader communautaire",
+        "ngo": "Organisation de femmes / ONG",
+        "police": "Police",
+        "international": "ONU ou organisation internationale",
+        "noOne": "Personne"
+      },
+      "barriers": "Qu'est-ce qui empêche les femmes de chercher de l'aide ?",
+      "barrierOptions": {
+        "stigma": "Peur de la stigmatisation",
+        "retaliation": "Peur des représailles",
+        "trust": "Manque de confiance dans les institutions",
+        "information": "Manque d'information",
+        "transport": "Problèmes de transport ou de mobilité",
+        "cultural": "Pression culturelle ou familiale"
+      }
+    },
+    "unifil": {
+      "note": "Ces questions se concentrent sur l'expérience et la sensibilisation de la communauté, pas sur les opinions politiques.",
+      "awareness": "Êtes-vous consciente de la présence de la FINUL dans votre région ?",
+      "perception": "Comment décririez-vous votre perception globale de la FINUL ?",
+      "perceptionOptions": {
+        "veryPositive": "Très positive",
+        "positive": "Plutôt positive",
+        "neutral": "Neutre",
+        "negative": "Plutôt négative",
+        "veryNegative": "Très négative",
+        "preferNot": "Préfère ne pas dire"
+      },
+      "safetyEffect": "Selon votre expérience, la présence de la FINUL a-t-elle affecté la sécurité communautaire ?",
+      "effectOptions": {
+        "improved": "Amélioration de la sécurité",
+        "noChange": "Pas de changement notable",
+        "reduced": "Diminution de la sécurité",
+        "unsure": "Incertain"
+      },
+      "womenConcerns": "Pensez-vous que les préoccupations de sécurité des femmes sont suffisamment prises en compte par les acteurs internationaux dans votre région ?",
+      "concernOptions": {
+        "yes": "Oui",
+        "partially": "Partiellement",
+        "no": "Non",
+        "unsure": "Incertain"
+      }
+    },
+    "reporting": {
+      "trustedMethods": "Quelles méthodes de signalement feriez-vous le plus confiance ?",
+      "methodOptions": {
+        "anonymous": "Plateforme en ligne anonyme",
+        "ngo": "ONG locale",
+        "community": "Groupe de femmes communautaire",
+        "government": "Institution gouvernementale",
+        "international": "Organisation internationale"
+      },
+      "usePortal": "Utiliseriez-vous ce portail de plaintes en ligne pour signaler des préoccupations ?",
+      "portalOptions": {
+        "yes": "Oui",
+        "maybe": "Peut-être",
+        "no": "Non"
+      },
+      "suggestions": "Qu'est-ce qui vous ferait vous sentir plus en sécurité en utilisant cette plateforme ?",
+      "suggestionsPlaceholder": "Partagez vos pensées..."
+    },
+    "selfDefense": {
+      "interest": "Êtes-vous intéressée à apprendre des techniques d'auto-défense ?",
+      "interestOptions": {
+        "yes": "Oui",
+        "no": "Non",
+        "maybe": "Peut-être"
+      },
+      "resources": "Quelles ressources d'auto-défense préféreriez-vous ?",
+      "resourceOptions": {
+        "videos": "Courtes vidéos",
+        "guides": "Guides illustrés",
+        "workshops": "Ateliers en direct",
+        "alerts": "Alertes et conseils mobiles"
+      },
+      "situations": "Dans quelles situations la formation à l'auto-défense serait-elle la plus utile ?",
+      "situationOptions": {
+        "home": "Maison",
+        "transport": "Transport public",
+        "workplace": "Lieu de travail",
+        "community": "Rassemblements communautaires",
+        "displacement": "Pendant le déplacement"
+      }
+    },
+    "feedback": {
+      "challenges": "Quels sont les plus grands défis de sécurité auxquels les femmes sont confrontées dans votre communauté aujourd'hui ?",
+      "challengesPlaceholder": "Partagez vos pensées...",
+      "wishedSupport": "Quel soutien souhaiteriez-vous qui soit disponible mais qui ne l'est pas actuellement ?",
+      "wishedSupportPlaceholder": "Partagez vos pensées...",
+      "additional": "Y a-t-il autre chose que vous aimeriez partager ?",
+      "additionalPlaceholder": "Partagez des pensées supplémentaires..."
+    },
+    "ethical": {
+      "title": "Ce questionnaire :",
+      "voluntary": "Est volontaire",
+      "noBlame": "Évite le blâme ou le cadrage politique",
+      "respect": "Respecte la dignité, la vie privée et le choix"
+    },
+    "common": {
+      "yes": "Oui",
+      "no": "Non"
+    },
+    "navigation": {
+      "previous": "Précédent",
+      "next": "Suivant",
+      "submit": "Soumettre",
+      "submitting": "Soumission en cours..."
+    },
+    "success": {
+      "title": "Merci !",
+      "message": "Vos réponses ont été soumises. Votre contribution nous aide à améliorer les services de soutien pour les femmes et les enfants du Sud-Liban.",
+      "returnHome": "Retour à l'accueil"
+    }
+  }
+}

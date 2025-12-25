@@ -1,0 +1,478 @@
+{
+  "common": {
+    "appName": "Lebanon Gender Initiative",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp",
+    "sms": "SMS",
+    "available247": "Available 24/7",
+    "anonymous": "Anonymous"
+  },
+  "nav": {
+    "home": "Home",
+    "submitGrievance": "Submit Grievance",
+    "trackGrievance": "Track Grievance",
+    "questionnaire": "Survey",
+    "helplines": "Helplines",
+    "selfDefense": "Self-Defense",
+    "resources": "Resources",
+    "gallery": "Gallery",
+    "childrenSafety": "Children Safety",
+    "health": "Health",
+    "community": "Community",
+    "stories": "Stories",
+    "events": "Events",
+    "map": "Find Help",
+    "faq": "FAQ",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Your Voice Matters",
+      "subtitle": "A safe space for women and children in South Lebanon",
+      "description": "Submit grievances anonymously, access support resources, and connect with help when you need it most.",
+      "cta": "Submit a Grievance",
+      "emergency": "Emergency? Call Now"
+    },
+    "features": {
+      "grievance": {
+        "title": "Submit Grievance",
+        "description": "Report incidents safely and anonymously"
+      },
+      "helplines": {
+        "title": "Emergency Helplines",
+        "description": "Quick access to support services"
+      },
+      "selfDefense": {
+        "title": "Self-Defense",
+        "description": "Learn to protect yourself"
+      }
+    },
+    "additionalServices": {
+      "title": "Additional Services"
+    }
+  },
+  "grievance": {
+    "title": "Submit a Grievance",
+    "subtitle": "Your voice matters. You can submit anonymously.",
+    "form": {
+      "name": "Name (Optional)",
+      "namePlaceholder": "Enter your name or leave blank for anonymous",
+      "email": "Email (Optional)",
+      "emailPlaceholder": "For follow-up if needed",
+      "phone": "Phone (Optional)",
+      "phonePlaceholder": "For follow-up if needed",
+      "anonymous": "I want to submit anonymously",
+      "village": "Village",
+      "selectVillage": "Select your village",
+      "otherLocation": "Other location",
+      "grievanceType": "Type of Grievance",
+      "selectType": "Select grievance type",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe what happened in as much detail as you feel comfortable sharing...",
+      "incidentDate": "Incident Date (Optional)",
+      "uploadEvidence": "Upload Evidence (Optional)",
+      "uploadHint": "Images, PDFs, audio, or video files (max 10MB each)",
+      "submitButton": "Submit Grievance",
+      "submitting": "Submitting..."
+    },
+    "types": {
+      "harassment": "Harassment",
+      "domestic_violence": "Domestic Violence",
+      "workplace_discrimination": "Workplace Discrimination",
+      "sexual_assault": "Sexual Assault",
+      "child_abuse": "Child Abuse",
+      "economic_abuse": "Economic Abuse",
+      "stalking": "Stalking",
+      "forced_marriage": "Forced Marriage",
+      "honor_violence": "Honor-based Violence",
+      "other": "Other"
+    },
+    "success": {
+      "title": "Grievance Submitted Successfully",
+      "message": "Your grievance has been received and will be reviewed.",
+      "trackingCode": "Your Tracking Code",
+      "saveCode": "Please save this code to track the status of your grievance",
+      "trackLink": "Track Your Grievance",
+      "submitAnother": "Submit Another Grievance"
+    },
+    "track": {
+      "title": "Track Your Grievance",
+      "enterCode": "Enter your tracking code",
+      "codePlaceholder": "e.g., ABC123XYZ456",
+      "trackButton": "Track Status",
+      "status": {
+        "submitted": "Submitted",
+        "under_review": "Under Review",
+        "in_progress": "In Progress",
+        "resolved": "Resolved",
+        "closed": "Closed"
+      }
+    }
+  },
+  "helplines": {
+    "title": "Emergency Helplines",
+    "subtitle": "If you are in danger, call immediately",
+    "categories": {
+      "all": "All",
+      "emergency": "Emergency",
+      "domestic_violence": "Domestic Violence",
+      "shelter": "Shelter",
+      "mental_health": "Mental Health",
+      "legal": "Legal Aid"
+    }
+  },
+  "selfDefense": {
+    "title": "Self-Defense Training",
+    "subtitle": "Learn techniques to protect yourself",
+    "categories": {
+      "all": "All Videos",
+      "basic": "Basic Techniques",
+      "escape": "Escape Moves",
+      "awareness": "Situational Awareness",
+      "prevention": "Prevention"
+    }
+  },
+  "childrenSafety": {
+    "title": "Children Safety",
+    "subtitle": "Teaching children about personal safety",
+    "goodTouch": {
+      "title": "Good Touch",
+      "description": "Touches that make you feel safe, loved, and comfortable"
+    },
+    "badTouch": {
+      "title": "Bad Touch",
+      "description": "Touches that make you feel uncomfortable, scared, or confused"
+    },
+    "whatToDo": {
+      "title": "What to Do",
+      "description": "If someone touches you in a way that feels wrong"
+    },
+    "forParents": {
+      "title": "For Parents",
+      "description": "How to talk to your children about body safety"
+    }
+  },
+  "health": {
+    "title": "Health Awareness",
+    "subtitle": "Important health information for women",
+    "breastCancer": {
+      "title": "Breast Cancer Awareness",
+      "selfExam": "Self-Examination Guide",
+      "signs": "Warning Signs",
+      "whenToSee": "When to See a Doctor",
+      "screening": "Local Screening Resources"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions"
+  },
+  "community": {
+    "title": "Community Forum",
+    "subtitle": "Share experiences and support each other",
+    "newPost": "Create New Post",
+    "anonymous": "Post Anonymously"
+  },
+  "stories": {
+    "title": "Success Stories",
+    "subtitle": "Inspiring stories of strength and resilience"
+  },
+  "events": {
+    "title": "Events & Webinars",
+    "subtitle": "Expert sessions and workshops",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "register": "Register"
+  },
+  "map": {
+    "title": "Find Help Near You",
+    "subtitle": "Locate shelters, NGOs, and support services",
+    "categories": {
+      "all": "All Locations",
+      "shelter": "Shelters",
+      "ngo": "NGOs",
+      "legal_aid": "Legal Aid",
+      "hospital": "Hospitals"
+    },
+    "getDirections": "Get Directions"
+  },
+  "chatbot": {
+    "title": "Support Assistant",
+    "placeholder": "Type your message...",
+    "greeting": "Hello! How can I help you today?",
+    "thinking": "Thinking..."
+  },
+  "panic": {
+    "hideButton": "Quick Exit",
+    "tooltip": "Click to leave this site immediately"
+  },
+  "footer": {
+    "emergency": "Emergency: 112",
+    "helpline": "Helpline: +961 76 348 299",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact Us",
+    "copyright": "Lebanon Gender Initiative. All rights reserved."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "login": {
+      "title": "Admin Access",
+      "password": "Password",
+      "submit": "Login",
+      "error": "Invalid password"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "totalGrievances": "Total Grievances",
+      "pending": "Pending Review",
+      "inProgress": "In Progress",
+      "resolved": "Resolved"
+    },
+    "tabs": {
+      "dashboard": "Dashboard",
+      "grievances": "Grievances",
+      "content": "Content",
+      "chatbot": "Chatbot Test"
+    }
+  },
+  "questionnaire": {
+    "title": "Safety & Support Survey",
+    "subtitle": "South Lebanon – Confidential & Voluntary",
+    "note": {
+      "title": "Important Note",
+      "confidential": "Your responses are confidential. You may skip any question.",
+      "purpose": "This questionnaire helps us understand safety needs and improve support services."
+    },
+    "sections": {
+      "basic": "Basic Information",
+      "conflict": "Impact of Conflict",
+      "genderSafety": "Gender-Based Safety",
+      "support": "Access to Support",
+      "unifil": "Community Safety Perception",
+      "reporting": "Trust & Reporting",
+      "selfDefense": "Self-Defense Resources",
+      "feedback": "Open Feedback"
+    },
+    "sectionDescriptions": {
+      "basic": "Optional personal information to help us understand the demographics.",
+      "conflict": "Understanding how the ongoing situation has affected your daily life.",
+      "genderSafety": "Questions about women and girls' safety in the current context.",
+      "support": "About access to support services and barriers.",
+      "unifil": "These questions focus on community experience and awareness.",
+      "reporting": "About reporting mechanisms and trust.",
+      "selfDefense": "Your interest in self-defense resources and training.",
+      "feedback": "Share your thoughts and suggestions openly."
+    },
+    "basic": {
+      "ageGroup": "Age Group",
+      "ageOptions": {
+        "under18": "Under 18",
+        "18-25": "18 – 25",
+        "26-35": "26 – 35",
+        "36-45": "36 – 45",
+        "46+": "46+"
+      },
+      "village": "Village / Area",
+      "selectVillage": "Select your village",
+      "other": "Other",
+      "specifyVillage": "Please specify your location",
+      "completingAs": "Are you completing this form as:",
+      "roleOptions": {
+        "survivor": "Survivor",
+        "witness": "Witness",
+        "family": "Family member",
+        "community": "Community member"
+      }
+    },
+    "conflict": {
+      "impacts": "How has ongoing conflict affected your daily life?",
+      "selectAll": "Select all that apply",
+      "impactOptions": {
+        "reducedSafety": "Reduced sense of personal safety",
+        "movement": "Restrictions on movement",
+        "livelihood": "Loss of livelihood or income",
+        "displacement": "Displacement or fear of displacement",
+        "stress": "Increased stress or anxiety",
+        "education": "Disruption of education",
+        "noImpact": "No significant impact",
+        "other": "Other"
+      },
+      "specifyOther": "Please specify",
+      "safetyComparison": "Compared to before the conflict, do you feel:",
+      "safetyOptions": {
+        "muchLess": "Much less safe",
+        "slightlyLess": "Slightly less safe",
+        "same": "About the same",
+        "slightlySafer": "Slightly safer",
+        "muchSafer": "Much safer"
+      },
+      "householdTensions": "Has the conflict increased tensions or violence within households or communities?",
+      "tensionOptions": {
+        "yesSignificant": "Yes, significantly",
+        "yesSomewhat": "Yes, somewhat",
+        "noChange": "No change",
+        "notSure": "Not sure"
+      }
+    },
+    "genderSafety": {
+      "womenRisk": "Since the conflict escalated, do you feel women and girls are:",
+      "riskOptions": {
+        "greater": "At greater risk of violence",
+        "same": "At the same risk as before",
+        "lower": "At lower risk",
+        "unsure": "Unsure"
+      },
+      "increasedRisks": "What types of risks have increased?",
+      "riskTypes": {
+        "domestic": "Domestic violence",
+        "harassment": "Sexual harassment in public spaces",
+        "forcedMarriage": "Forced or early marriage",
+        "online": "Online harassment",
+        "exploitation": "Exploitation due to economic hardship",
+        "none": "None",
+        "preferNot": "Prefer not to say"
+      },
+      "safeReporting": "Do you feel safe reporting violence or harassment?",
+      "reportOptions": {
+        "yes": "Yes",
+        "no": "No",
+        "certainOrgs": "Only to certain organizations",
+        "unsure": "Unsure"
+      }
+    },
+    "support": {
+      "firstApproach": "If you experienced or witnessed violence, who would you most likely approach first?",
+      "approachOptions": {
+        "family": "Family member",
+        "community": "Community leader",
+        "ngo": "Women's organization / NGO",
+        "police": "Police",
+        "international": "UN or international organization",
+        "noOne": "No one"
+      },
+      "barriers": "What prevents women from seeking help?",
+      "barrierOptions": {
+        "stigma": "Fear of stigma",
+        "retaliation": "Fear of retaliation",
+        "trust": "Lack of trust in institutions",
+        "information": "Lack of information",
+        "transport": "Transportation or mobility issues",
+        "cultural": "Cultural or family pressure"
+      }
+    },
+    "unifil": {
+      "note": "These questions focus on community experience and awareness, not political opinions.",
+      "awareness": "Are you aware of UNIFIL's presence in your area?",
+      "perception": "How would you describe your overall perception of UNIFIL?",
+      "perceptionOptions": {
+        "veryPositive": "Very positive",
+        "positive": "Somewhat positive",
+        "neutral": "Neutral",
+        "negative": "Somewhat negative",
+        "veryNegative": "Very negative",
+        "preferNot": "Prefer not to say"
+      },
+      "safetyEffect": "In your experience, has UNIFIL's presence affected community safety?",
+      "effectOptions": {
+        "improved": "Improved safety",
+        "noChange": "No noticeable change",
+        "reduced": "Reduced safety",
+        "unsure": "Unsure"
+      },
+      "womenConcerns": "Do you feel women's safety concerns are adequately addressed by international actors in your area?",
+      "concernOptions": {
+        "yes": "Yes",
+        "partially": "Partially",
+        "no": "No",
+        "unsure": "Unsure"
+      }
+    },
+    "reporting": {
+      "trustedMethods": "Which reporting methods would you trust the most?",
+      "methodOptions": {
+        "anonymous": "Anonymous online platform",
+        "ngo": "Local NGO",
+        "community": "Community-based women's group",
+        "government": "Government institution",
+        "international": "International organization"
+      },
+      "usePortal": "Would you use this online grievance portal to report concerns?",
+      "portalOptions": {
+        "yes": "Yes",
+        "maybe": "Maybe",
+        "no": "No"
+      },
+      "suggestions": "What would make you feel safer using this platform?",
+      "suggestionsPlaceholder": "Share your thoughts..."
+    },
+    "selfDefense": {
+      "interest": "Are you interested in learning self-defense techniques?",
+      "interestOptions": {
+        "yes": "Yes",
+        "no": "No",
+        "maybe": "Maybe"
+      },
+      "resources": "Which self-defense resources would you prefer?",
+      "resourceOptions": {
+        "videos": "Short videos",
+        "guides": "Illustrated guides",
+        "workshops": "Live workshops",
+        "alerts": "Mobile alerts & tips"
+      },
+      "situations": "In which situations would self-defense training be most useful?",
+      "situationOptions": {
+        "home": "Home",
+        "transport": "Public transport",
+        "workplace": "Workplace",
+        "community": "Community gatherings",
+        "displacement": "During displacement"
+      }
+    },
+    "feedback": {
+      "challenges": "What are the biggest safety challenges women face in your community today?",
+      "challengesPlaceholder": "Share your thoughts...",
+      "wishedSupport": "What support do you wish was available but currently is not?",
+      "wishedSupportPlaceholder": "Share your thoughts...",
+      "additional": "Is there anything else you would like to share?",
+      "additionalPlaceholder": "Share any additional thoughts..."
+    },
+    "ethical": {
+      "title": "This questionnaire:",
+      "voluntary": "Is voluntary",
+      "noBlame": "Avoids blame or political framing",
+      "respect": "Respects dignity, privacy, and choice"
+    },
+    "common": {
+      "yes": "Yes",
+      "no": "No"
+    },
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next",
+      "submit": "Submit",
+      "submitting": "Submitting..."
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "Your responses have been submitted. Your input helps us improve support services for women and children in South Lebanon.",
+      "returnHome": "Return to Home"
+    }
+  }
+}
