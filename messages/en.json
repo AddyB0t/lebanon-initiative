@@ -65,6 +65,256 @@
     },
     "additionalServices": {
       "title": "Additional Services"
+    },
+    "genderEducation": {
+      "genderPerspectives": "Gender Perspectives",
+      "genderSensitivity": "Gender Sensitivity",
+      "talkingToKids": "Talking to Kids",
+      "relationshipAbuse": "Signs of Abuse"
+    }
+  },
+  "genderPerspectives": {
+    "title": "Gender Perspectives",
+    "subtitle": "Understanding how gender shapes experiences, opportunities, and challenges in society",
+    "whatIs": {
+      "title": "What is a Gender Perspective?",
+      "description": "A gender perspective examines how gender norms, roles, and relations affect individuals and communities differently. It helps identify inequalities and develop solutions that work for everyone.",
+      "point1": "Recognizes that women, men, and non-binary individuals have different experiences and needs",
+      "point2": "Examines how policies and practices affect genders differently",
+      "point3": "Promotes equal rights, responsibilities, and opportunities for all"
+    },
+    "focusAreas": {
+      "title": "Key Focus Areas",
+      "leadership": {
+        "title": "Leadership & Participation",
+        "description": "Advancing women's representation in governance and decision-making"
+      },
+      "economic": {
+        "title": "Economic Empowerment",
+        "description": "Creating economic opportunities and financial independence for women"
+      },
+      "violence": {
+        "title": "Ending Violence",
+        "description": "Providing survivor services and prevention programs"
+      },
+      "peace": {
+        "title": "Peace & Security",
+        "description": "Integrating gender perspectives in conflict resolution"
+      },
+      "humanitarian": {
+        "title": "Humanitarian Action",
+        "description": "Supporting women and girls in crisis situations"
+      },
+      "youth": {
+        "title": "Youth Engagement",
+        "description": "Addressing gender equality for young people"
+      },
+      "disabilities": {
+        "title": "Inclusive Approaches",
+        "description": "Ensuring support for women with disabilities"
+      },
+      "sustainable": {
+        "title": "Sustainable Development",
+        "description": "Linking gender equality to global development goals"
+      }
+    },
+    "whyMatters": {
+      "title": "Why Gender Perspectives Matter",
+      "forWomen": {
+        "title": "For Women & Girls",
+        "point1": "Better access to education and healthcare",
+        "point2": "Protection from violence and discrimination",
+        "point3": "Economic independence and opportunity"
+      },
+      "forCommunity": {
+        "title": "For Communities",
+        "point1": "Stronger, more resilient families",
+        "point2": "Better economic growth and development",
+        "point3": "More peaceful and just societies"
+      }
+    }
+  },
+  "genderSensitivity": {
+    "title": "Gender Sensitivity",
+    "subtitle": "Learning to recognize and respond to the different needs and experiences of all genders",
+    "whatIs": {
+      "title": "What is Gender Sensitivity?",
+      "description": "Gender sensitivity means being aware of how gender affects people's lives and treating everyone with equal respect. It involves understanding stereotypes, avoiding bias, and creating inclusive environments."
+    },
+    "principles": {
+      "title": "Core Principles",
+      "language": {
+        "title": "Inclusive Language",
+        "description": "Using words that respect and include all genders",
+        "example1": "Use 'they' instead of assuming gender",
+        "example2": "Say 'firefighter' not 'fireman'"
+      },
+      "inclusion": {
+        "title": "Equal Inclusion",
+        "description": "Ensuring everyone has equal opportunities to participate",
+        "example1": "Include women in decision-making processes",
+        "example2": "Consider accessibility for all activities"
+      },
+      "respect": {
+        "title": "Respect & Dignity",
+        "description": "Treating all individuals with equal respect",
+        "example1": "Listen to all voices equally in discussions",
+        "example2": "Avoid dismissing concerns based on gender"
+      },
+      "awareness": {
+        "title": "Stereotype Awareness",
+        "description": "Recognizing and challenging gender stereotypes",
+        "example1": "Don't assume roles based on gender",
+        "example2": "Encourage children to pursue any interest"
+      }
+    },
+    "dos": {
+      "title": "Do's",
+      "item1": "Listen to and validate everyone's experiences",
+      "item2": "Use gender-neutral language when possible",
+      "item3": "Challenge stereotypes when you see them",
+      "item4": "Support equal opportunities for all",
+      "item5": "Educate yourself about gender issues"
+    },
+    "donts": {
+      "title": "Don'ts",
+      "item1": "Make assumptions based on someone's gender",
+      "item2": "Use sexist jokes or language",
+      "item3": "Interrupt or talk over women in conversations",
+      "item4": "Assign roles based on gender stereotypes",
+      "item5": "Ignore or minimize gender-based concerns"
+    },
+    "cta": {
+      "message": "Small changes in awareness create big impacts",
+      "subtext": "Being gender-sensitive helps create safer, more inclusive communities for everyone"
+    }
+  },
+  "talkingToKids": {
+    "title": "Talking to Kids About Gender",
+    "subtitle": "Age-appropriate ways to discuss gender equality, stereotypes, and respect with children",
+    "whyImportant": {
+      "title": "Why These Conversations Matter",
+      "description": "Children learn gender roles from an early age. Open conversations help them develop respect for all people and resist harmful stereotypes.",
+      "point1": "Children absorb gender stereotypes by age 3-4",
+      "point2": "Early education prevents discrimination and bullying",
+      "point3": "Builds empathy and respect for others"
+    },
+    "ageGroups": {
+      "title": "Age-Appropriate Approaches",
+      "young": {
+        "title": "Young Children",
+        "tip1": "Use stories with diverse characters in different roles",
+        "tip2": "Let them choose toys and activities freely",
+        "tip3": "Teach that all feelings are okay for everyone"
+      },
+      "middle": {
+        "title": "School-Age Children",
+        "tip1": "Discuss stereotypes they see in media",
+        "tip2": "Talk about fairness and equal treatment",
+        "tip3": "Encourage friendships with all genders"
+      },
+      "teen": {
+        "title": "Teenagers",
+        "tip1": "Discuss consent, respect in relationships",
+        "tip2": "Talk about gender inequality in society",
+        "tip3": "Encourage them to speak up against discrimination"
+      }
+    },
+    "keyMessages": {
+      "title": "Key Messages to Share",
+      "message1": {
+        "title": "Everyone deserves respect",
+        "example": "We treat everyone kindly, no matter if they're a boy, girl, or identify differently"
+      },
+      "message2": {
+        "title": "Abilities aren't determined by gender",
+        "example": "Anyone can be a doctor, teacher, or athlete - it's about what you love and work hard at"
+      },
+      "message3": {
+        "title": "Feelings are for everyone",
+        "example": "It's okay for boys to cry and girls to be strong - all feelings are valid"
+      },
+      "message4": {
+        "title": "Stand up for others",
+        "example": "If you see someone being treated unfairly because of their gender, speak up or tell an adult"
+      }
+    },
+    "starters": {
+      "title": "Conversation Starters",
+      "starter1": "What do you think it means when someone says 'that's for boys' or 'that's for girls'?",
+      "starter2": "Have you ever felt you couldn't do something because of being a boy/girl?",
+      "starter3": "What would you do if someone told your friend they couldn't play because of their gender?"
+    }
+  },
+  "relationshipAbuse": {
+    "title": "Signs of Relationship Abuse",
+    "subtitle": "Recognize the warning signs and learn how to help yourself or someone you care about",
+    "emergency": {
+      "title": "If you are in immediate danger",
+      "subtitle": "Call for help right away",
+      "callNow": "Call Now"
+    },
+    "warningSigns": {
+      "title": "Warning Signs of Abuse",
+      "monitoring": {
+        "title": "Monitoring & Control",
+        "sign1": "Tracks your movements and contacts",
+        "sign2": "Prevents you from seeing friends or family",
+        "sign3": "Controls your finances or decisions"
+      },
+      "digital": {
+        "title": "Digital Surveillance",
+        "sign1": "Demands passwords to your accounts",
+        "sign2": "Uses location tracking on your phone",
+        "sign3": "Checks your messages and calls"
+      },
+      "control": {
+        "title": "Jealousy & Possessiveness",
+        "sign1": "Constant accusations of cheating",
+        "sign2": "Controls what you wear or who you see",
+        "sign3": "Gets angry when you spend time with others"
+      },
+      "emotional": {
+        "title": "Emotional Abuse",
+        "sign1": "Insults your appearance or intelligence",
+        "sign2": "Humiliates you in public",
+        "sign3": "Makes you feel worthless"
+      },
+      "anger": {
+        "title": "Unpredictable Anger",
+        "sign1": "Quick temper with blame-shifting",
+        "sign2": "Threats toward you or your loved ones",
+        "sign3": "Destroys your property when angry"
+      },
+      "physical": {
+        "title": "Physical Violence",
+        "sign1": "Hitting, pushing, or kicking",
+        "sign2": "Threatening with weapons",
+        "sign3": "Preventing you from leaving"
+      }
+    },
+    "safetyTips": {
+      "title": "Safety Tips",
+      "tip1": "Confide in trusted friends or family members",
+      "tip2": "Develop a code word to signal you need help",
+      "tip3": "Keep a charged phone with emergency numbers",
+      "tip4": "Plan an escape route and safe place to go",
+      "tip5": "Keep important documents in a safe place",
+      "tip6": "Contact helplines for professional support"
+    },
+    "howToHelp": {
+      "title": "How to Help Someone",
+      "description": "If you suspect someone is experiencing abuse, approach with care and support.",
+      "step1": "Listen without judgment",
+      "step2": "Believe what they tell you",
+      "step3": "Respect their decisions",
+      "step4": "Offer practical help and resources"
+    },
+    "resources": {
+      "title": "Get Help",
+      "helplines": "View Helplines",
+      "reportAnonymously": "Report Anonymously",
+      "source": "Information based on UN Women resources"
     }
   },
   "grievance": {

@@ -7,7 +7,11 @@ import {
   Shield,
   Heart,
   Baby,
-  ArrowRight
+  ArrowRight,
+  Scale,
+  MessageCircle,
+  AlertTriangle,
+  BookOpen
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -51,6 +55,13 @@ function HomeContent({ locale }: { locale: string }) {
   const additionalServices = [
     { key: 'childrenSafety', href: '/children-safety', icon: Baby, color: 'bg-pink-100 text-pink-700' },
     { key: 'health', href: '/health', icon: Heart, color: 'bg-red-100 text-red-700' },
+  ];
+
+  const genderEducation = [
+    { key: 'genderPerspectives', href: '/gender-perspectives', icon: Scale, color: 'bg-blue-100 text-blue-700' },
+    { key: 'genderSensitivity', href: '/gender-sensitivity', icon: BookOpen, color: 'bg-purple-100 text-purple-700' },
+    { key: 'talkingToKids', href: '/talking-to-kids', icon: MessageCircle, color: 'bg-orange-100 text-orange-700' },
+    { key: 'relationshipAbuse', href: '/relationship-abuse', icon: AlertTriangle, color: 'bg-red-100 text-red-700' },
   ];
 
   return (
@@ -119,6 +130,38 @@ function HomeContent({ locale }: { locale: string }) {
                   </div>
                   <span className="font-medium text-base">{tNav(service.key)}</span>
                 </Button>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Gender & Violence Education */}
+      <section className="py-16 lg:py-24 bg-muted/30">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-10">
+            <h2 className="text-2xl md:text-3xl font-bold mb-3">
+              {locale === 'ar' ? 'التوعية بقضايا النوع الاجتماعي والعنف' :
+               locale === 'fr' ? 'Éducation sur le Genre et la Violence' :
+               'Gender & Violence Education'}
+            </h2>
+            <p className="text-muted-foreground max-w-2xl mx-auto">
+              {locale === 'ar' ? 'تعرفي على حقوقك وكيفية حماية نفسك وأطفالك' :
+               locale === 'fr' ? 'Apprenez vos droits et comment vous protéger' :
+               'Learn about your rights and how to protect yourself and your children'}
+            </p>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4 max-w-5xl mx-auto">
+            {genderEducation.map((item) => (
+              <Link key={item.key} href={`/${locale}${item.href}`}>
+                <Card className="h-full transition-all hover:shadow-lg hover:-translate-y-1">
+                  <CardContent className="pt-6 text-center">
+                    <div className={`w-12 h-12 rounded-lg ${item.color} flex items-center justify-center mb-3 mx-auto`}>
+                      <item.icon className="h-6 w-6" />
+                    </div>
+                    <h3 className="font-semibold text-sm">{t(`genderEducation.${item.key}`)}</h3>
+                  </CardContent>
+                </Card>
               </Link>
             ))}
           </div>

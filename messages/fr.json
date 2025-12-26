@@ -65,6 +65,256 @@
     },
     "additionalServices": {
       "title": "Services supplémentaires"
+    },
+    "genderEducation": {
+      "genderPerspectives": "Perspectives de genre",
+      "genderSensitivity": "Sensibilité au genre",
+      "talkingToKids": "Parler aux enfants",
+      "relationshipAbuse": "Signes de violence"
+    }
+  },
+  "genderPerspectives": {
+    "title": "Perspectives de genre",
+    "subtitle": "Comprendre comment le genre façonne les expériences, les opportunités et les défis dans la société",
+    "whatIs": {
+      "title": "Qu'est-ce qu'une perspective de genre ?",
+      "description": "Une perspective de genre examine comment les normes, les rôles et les relations de genre affectent différemment les individus et les communautés. Elle aide à identifier les inégalités et à développer des solutions qui fonctionnent pour tous.",
+      "point1": "Reconnaît que les femmes et les hommes ont des expériences et des besoins différents",
+      "point2": "Examine comment les politiques et les pratiques affectent différemment les genres",
+      "point3": "Promeut l'égalité des droits, des responsabilités et des opportunités pour tous"
+    },
+    "focusAreas": {
+      "title": "Domaines clés",
+      "leadership": {
+        "title": "Leadership et participation",
+        "description": "Promouvoir la représentation des femmes dans la gouvernance et la prise de décision"
+      },
+      "economic": {
+        "title": "Autonomisation économique",
+        "description": "Créer des opportunités économiques et l'indépendance financière pour les femmes"
+      },
+      "violence": {
+        "title": "Mettre fin à la violence",
+        "description": "Fournir des services aux survivantes et des programmes de prévention"
+      },
+      "peace": {
+        "title": "Paix et sécurité",
+        "description": "Intégrer les perspectives de genre dans la résolution des conflits"
+      },
+      "humanitarian": {
+        "title": "Action humanitaire",
+        "description": "Soutenir les femmes et les filles en situation de crise"
+      },
+      "youth": {
+        "title": "Engagement des jeunes",
+        "description": "Aborder l'égalité des genres pour les jeunes"
+      },
+      "disabilities": {
+        "title": "Approches inclusives",
+        "description": "Assurer le soutien aux femmes handicapées"
+      },
+      "sustainable": {
+        "title": "Développement durable",
+        "description": "Lier l'égalité des genres aux objectifs de développement mondial"
+      }
+    },
+    "whyMatters": {
+      "title": "Pourquoi les perspectives de genre sont importantes",
+      "forWomen": {
+        "title": "Pour les femmes et les filles",
+        "point1": "Meilleur accès à l'éducation et aux soins de santé",
+        "point2": "Protection contre la violence et la discrimination",
+        "point3": "Indépendance économique et opportunités"
+      },
+      "forCommunity": {
+        "title": "Pour les communautés",
+        "point1": "Familles plus fortes et plus résilientes",
+        "point2": "Meilleure croissance économique et développement",
+        "point3": "Sociétés plus pacifiques et justes"
+      }
+    }
+  },
+  "genderSensitivity": {
+    "title": "Sensibilité au genre",
+    "subtitle": "Apprendre à reconnaître et à répondre aux différents besoins et expériences de tous les genres",
+    "whatIs": {
+      "title": "Qu'est-ce que la sensibilité au genre ?",
+      "description": "La sensibilité au genre signifie être conscient de la façon dont le genre affecte la vie des gens et traiter tout le monde avec un respect égal. Cela implique de comprendre les stéréotypes, d'éviter les préjugés et de créer des environnements inclusifs."
+    },
+    "principles": {
+      "title": "Principes fondamentaux",
+      "language": {
+        "title": "Langage inclusif",
+        "description": "Utiliser des mots qui respectent et incluent tous les genres",
+        "example1": "Éviter de supposer le genre",
+        "example2": "Utiliser des termes neutres"
+      },
+      "inclusion": {
+        "title": "Inclusion égale",
+        "description": "S'assurer que tout le monde a des opportunités égales de participer",
+        "example1": "Inclure les femmes dans les processus décisionnels",
+        "example2": "Considérer l'accessibilité pour toutes les activités"
+      },
+      "respect": {
+        "title": "Respect et dignité",
+        "description": "Traiter tous les individus avec un respect égal",
+        "example1": "Écouter toutes les voix également dans les discussions",
+        "example2": "Éviter de rejeter les préoccupations basées sur le genre"
+      },
+      "awareness": {
+        "title": "Conscience des stéréotypes",
+        "description": "Reconnaître et remettre en question les stéréotypes de genre",
+        "example1": "Ne pas supposer les rôles basés sur le genre",
+        "example2": "Encourager les enfants à poursuivre tout intérêt"
+      }
+    },
+    "dos": {
+      "title": "À faire",
+      "item1": "Écouter et valider les expériences de chacun",
+      "item2": "Utiliser un langage neutre en genre quand c'est possible",
+      "item3": "Remettre en question les stéréotypes quand vous les voyez",
+      "item4": "Soutenir l'égalité des chances pour tous",
+      "item5": "Vous éduquer sur les questions de genre"
+    },
+    "donts": {
+      "title": "À ne pas faire",
+      "item1": "Faire des suppositions basées sur le genre de quelqu'un",
+      "item2": "Utiliser des blagues ou un langage sexiste",
+      "item3": "Interrompre les femmes dans les conversations",
+      "item4": "Attribuer des rôles basés sur les stéréotypes de genre",
+      "item5": "Ignorer ou minimiser les préoccupations liées au genre"
+    },
+    "cta": {
+      "message": "Les petits changements de conscience créent de grands impacts",
+      "subtext": "Être sensible au genre aide à créer des communautés plus sûres et plus inclusives pour tous"
+    }
+  },
+  "talkingToKids": {
+    "title": "Parler aux enfants du genre",
+    "subtitle": "Moyens adaptés à l'âge pour discuter de l'égalité des genres, des stéréotypes et du respect avec les enfants",
+    "whyImportant": {
+      "title": "Pourquoi ces conversations sont importantes",
+      "description": "Les enfants apprennent les rôles de genre dès leur plus jeune âge. Les conversations ouvertes les aident à développer le respect pour tous et à résister aux stéréotypes nocifs.",
+      "point1": "Les enfants absorbent les stéréotypes de genre vers 3-4 ans",
+      "point2": "L'éducation précoce prévient la discrimination et l'intimidation",
+      "point3": "Développe l'empathie et le respect des autres"
+    },
+    "ageGroups": {
+      "title": "Approches adaptées à l'âge",
+      "young": {
+        "title": "Jeunes enfants",
+        "tip1": "Utiliser des histoires avec des personnages divers dans différents rôles",
+        "tip2": "Les laisser choisir librement leurs jouets et activités",
+        "tip3": "Enseigner que tous les sentiments sont acceptables pour tous"
+      },
+      "middle": {
+        "title": "Enfants d'âge scolaire",
+        "tip1": "Discuter des stéréotypes qu'ils voient dans les médias",
+        "tip2": "Parler d'équité et de traitement égal",
+        "tip3": "Encourager les amitiés avec tous les genres"
+      },
+      "teen": {
+        "title": "Adolescents",
+        "tip1": "Discuter du consentement et du respect dans les relations",
+        "tip2": "Parler de l'inégalité des genres dans la société",
+        "tip3": "Les encourager à s'exprimer contre la discrimination"
+      }
+    },
+    "keyMessages": {
+      "title": "Messages clés à partager",
+      "message1": {
+        "title": "Tout le monde mérite le respect",
+        "example": "Nous traitons tout le monde avec gentillesse, qu'ils soient garçons ou filles"
+      },
+      "message2": {
+        "title": "Les capacités ne sont pas déterminées par le genre",
+        "example": "N'importe qui peut être médecin, enseignant ou athlète - c'est une question de passion et de travail"
+      },
+      "message3": {
+        "title": "Les sentiments sont pour tout le monde",
+        "example": "C'est normal pour les garçons de pleurer et pour les filles d'être fortes - tous les sentiments sont valides"
+      },
+      "message4": {
+        "title": "Défendre les autres",
+        "example": "Si vous voyez quelqu'un traité injustement à cause de son genre, parlez ou dites-le à un adulte"
+      }
+    },
+    "starters": {
+      "title": "Amorces de conversation",
+      "starter1": "Que penses-tu quand quelqu'un dit 'c'est pour les garçons' ou 'c'est pour les filles' ?",
+      "starter2": "As-tu déjà eu l'impression de ne pas pouvoir faire quelque chose parce que tu es un garçon/une fille ?",
+      "starter3": "Que ferais-tu si quelqu'un disait à ton ami qu'il ne peut pas jouer à cause de son genre ?"
+    }
+  },
+  "relationshipAbuse": {
+    "title": "Signes de violence relationnelle",
+    "subtitle": "Reconnaître les signes d'alerte et apprendre à vous aider ou à aider quelqu'un que vous aimez",
+    "emergency": {
+      "title": "Si vous êtes en danger immédiat",
+      "subtitle": "Appelez à l'aide immédiatement",
+      "callNow": "Appeler maintenant"
+    },
+    "warningSigns": {
+      "title": "Signes d'alerte de violence",
+      "monitoring": {
+        "title": "Surveillance et contrôle",
+        "sign1": "Suit vos mouvements et contacts",
+        "sign2": "Vous empêche de voir vos amis ou votre famille",
+        "sign3": "Contrôle vos finances ou vos décisions"
+      },
+      "digital": {
+        "title": "Surveillance numérique",
+        "sign1": "Exige les mots de passe de vos comptes",
+        "sign2": "Utilise le suivi de localisation sur votre téléphone",
+        "sign3": "Vérifie vos messages et appels"
+      },
+      "control": {
+        "title": "Jalousie et possessivité",
+        "sign1": "Accusations constantes d'infidélité",
+        "sign2": "Contrôle ce que vous portez ou qui vous voyez",
+        "sign3": "Se met en colère quand vous passez du temps avec d'autres"
+      },
+      "emotional": {
+        "title": "Violence émotionnelle",
+        "sign1": "Insulte votre apparence ou votre intelligence",
+        "sign2": "Vous humilie en public",
+        "sign3": "Vous fait sentir sans valeur"
+      },
+      "anger": {
+        "title": "Colère imprévisible",
+        "sign1": "Tempérament rapide avec rejet de la faute",
+        "sign2": "Menaces envers vous ou vos proches",
+        "sign3": "Détruit vos biens quand il est en colère"
+      },
+      "physical": {
+        "title": "Violence physique",
+        "sign1": "Frapper, pousser ou donner des coups de pied",
+        "sign2": "Menacer avec des armes",
+        "sign3": "Vous empêcher de partir"
+      }
+    },
+    "safetyTips": {
+      "title": "Conseils de sécurité",
+      "tip1": "Confiez-vous à des amis ou des membres de la famille de confiance",
+      "tip2": "Développez un mot de code pour signaler que vous avez besoin d'aide",
+      "tip3": "Gardez un téléphone chargé avec les numéros d'urgence",
+      "tip4": "Planifiez une route d'évasion et un endroit sûr où aller",
+      "tip5": "Gardez les documents importants en lieu sûr",
+      "tip6": "Contactez les lignes d'aide pour un soutien professionnel"
+    },
+    "howToHelp": {
+      "title": "Comment aider quelqu'un",
+      "description": "Si vous soupçonnez que quelqu'un subit des violences, approchez avec soin et soutien.",
+      "step1": "Écoutez sans juger",
+      "step2": "Croyez ce qu'ils vous disent",
+      "step3": "Respectez leurs décisions",
+      "step4": "Offrez une aide pratique et des ressources"
+    },
+    "resources": {
+      "title": "Obtenir de l'aide",
+      "helplines": "Voir les lignes d'aide",
+      "reportAnonymously": "Signaler anonymement",
+      "source": "Informations basées sur les ressources d'ONU Femmes"
     }
   },
   "grievance": {
