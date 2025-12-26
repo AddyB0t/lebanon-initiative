@@ -136,14 +136,14 @@ function HomeContent({ locale }: { locale: string }) {
         </div>
       </section>
 
-      {/* Gender & Violence Education */}
+      {/* Gender Awareness & Safety Education */}
       <section className="py-16 lg:py-24 bg-muted/30">
         <div className="container mx-auto px-4">
           <div className="text-center mb-10">
             <h2 className="text-2xl md:text-3xl font-bold mb-3">
-              {locale === 'ar' ? 'التوعية بقضايا النوع الاجتماعي والعنف' :
-               locale === 'fr' ? 'Éducation sur le Genre et la Violence' :
-               'Gender & Violence Education'}
+              {locale === 'ar' ? 'التوعية الجندرية والتثقيف حول السلامة' :
+               locale === 'fr' ? 'Sensibilisation au Genre et Éducation à la Sécurité' :
+               'Gender Awareness & Safety Education'}
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               {locale === 'ar' ? 'تعرفي على حقوقك وكيفية حماية نفسك وأطفالك' :
