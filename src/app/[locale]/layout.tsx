@@ -8,6 +8,7 @@ import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 import PanicButton from '@/components/features/panic-button';
 import ChatWidget from '@/components/features/chat-widget';
+import LanguageSelectorPopup from '@/components/features/language-selector-popup';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -60,6 +61,7 @@ export default async function LocaleLayout({
           </div>
           <PanicButton />
           <ChatWidget />
+          <LanguageSelectorPopup />
           <Toaster position={dir === 'rtl' ? 'top-left' : 'top-right'} />
         </NextIntlClientProvider>
       </body>

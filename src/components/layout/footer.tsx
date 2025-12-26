@@ -113,28 +113,12 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Legal */}
+          {/* Admin */}
           <div>
             <h3 className="font-semibold mb-4">
-              {locale === 'ar' ? 'قانوني' : 'Legal'}
+              {locale === 'ar' ? 'إدارة' : 'Admin'}
             </h3>
             <ul className="space-y-2">
-              <li>
-                <Link
-                  href={`/${locale}/privacy`}
-                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  {t('privacy')}
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href={`/${locale}/terms`}
-                  className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  {t('terms')}
-                </Link>
-              </li>
               <li>
                 <Link
                   href={`/${locale}/admin`}
