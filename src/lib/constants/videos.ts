@@ -15,15 +15,15 @@ export const selfDefenseVideos: SelfDefenseVideo[] = [
   // Escape Techniques - Wrist Grabs
   {
     id: '1',
-    youtube_id: 'm5dWBTRVNvk',
-    title_en: 'Escaping a Wrist Grab in Self-Defense',
-    title_ar: 'الإفلات من قبضة المعصم في الدفاع عن النفس',
-    title_fr: 'Échapper à une prise de poignet en autodéfense',
-    description_en: 'Learn effective techniques to escape when someone grabs your wrist.',
-    description_ar: 'تعلمي تقنيات فعالة للإفلات عندما يمسك شخص ما معصمك.',
-    description_fr: 'Apprenez des techniques efficaces pour vous échapper lorsque quelqu\'un saisit votre poignet.',
+    youtube_id: 'Gx3_x6RH1J4',
+    title_en: 'Self-Defense: How to Escape a Wrist Grab',
+    title_ar: 'الدفاع عن النفس: كيفية الإفلات من قبضة المعصم',
+    title_fr: 'Autodéfense: Comment échapper à une prise de poignet',
+    description_en: 'Learn simple and effective techniques to escape wrist grabs.',
+    description_ar: 'تعلمي تقنيات بسيطة وفعالة للإفلات من قبضة المعصم.',
+    description_fr: 'Apprenez des techniques simples et efficaces pour échapper aux prises de poignet.',
     category: 'escape',
-    duration: '5:30',
+    duration: '3:42',
   },
   {
     id: '2',
