@@ -37,7 +37,7 @@ export default function SelfDefensePage() {
         <div className="w-16 h-16 bg-accent/20 rounded-full flex items-center justify-center mx-auto mb-6">
           <Shield className="h-8 w-8 text-accent-foreground" />
         </div>
-        <h1 className="text-3xl font-bold mb-4">{t('title')}</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">{t('title')}</h1>
         <p className="text-xl text-muted-foreground">{t('subtitle')}</p>
       </div>
 
